@@ -20,14 +20,6 @@ Aplicação desktop com controle de vendas, estoque e relatórios.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelAlves-git&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlves-git&layout=compact&theme=dark&cache_seconds=1800)
-
----
-
 ## 📫 Contato
 
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-aa99a2200)
