@@ -1,11 +1,39 @@
-Olá! Eu sou o Rafael Alves.<br><br>
--- 👨‍💻 Atualmente estou aprendendo sobre Delphi 
- 
+# 👋 Olá, eu sou Rafael Alves
 
-# 📊 GitHub Status:
-![](https://github-readme-streak-stats.herokuapp.com/?user=RafaelAlves-git&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlves-git&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💻 Desenvolvedor Delphi apaixonado por tecnologia e criação de soluções eficientes.  
+Atuo no desenvolvimento de sistemas desktop e integração com bancos de dados.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RafaelAlves-git&icon=0&color=0)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-aa99a2200)
+
+## 🚀 Tecnologias & Ferramentas
+
+- 🧠 **Delphi 7 e 10 (VCL)**
+- 🗄️ **Banco de Dados:** Firebird | SQL Server
+- 🖥️ Sistemas Desktop Windows
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **Sistema de Gestão Comercial (Delphi)**  
+Aplicação desktop com controle de vendas, estoque e relatórios.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelAlves-git&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAlves-git&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato
+
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-aa99a2200)
+- 📧 Email: *alves4rafel@gmail.com*
+
+---
+⭐ Sempre aberto a novas oportunidades e desafios!
+
+
